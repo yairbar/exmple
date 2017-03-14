@@ -1,0 +1,24 @@
+[
+
+{
+"class name":"A1",
+"students":[
+{
+
+"first name":"yair",
+
+"last name":"baroch",
+
+"grades":
+  {
+   "obj1":90,
+   "obj2":90,
+  },
+
+{},
+
+{},
+
+{},
+
+]}]
